@@ -39,12 +39,6 @@ EduScan AI is a mobile application built using Flutter to assist early screening
 | 🧠 Learning Tracker             | Visualize child development trend        | Deep Learning + Time-series    |
 | 📚 Dynamic Content Feed        | Fetch relevant articles, journals        | REST API / Firebase Firestore  |
 
-## Design Prototype
-### Home Page
-Home Page.jpg
-
-### Scan Page 
-
 
 ## Project Status
 🚧 **In Progress** – Features, UI, and AI models are under active development.
