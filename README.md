@@ -1,5 +1,5 @@
-# EduScan_AI
-EduScan AI is a mobile application built using Flutter to assist early screening of dyslexia through handwriting analysis and educational resources. It aims to empower parents and educators with AI-powered tools to detect potential dyslexia symptoms and provide helpful learning support.
+# DysCover
+DysCover is a mobile application built using Flutter to assist early screening of dyslexia through handwriting analysis and educational resources. It aims to empower parents and educators with AI-powered tools to detect potential dyslexia symptoms and provide helpful learning support.
 
 
 ## 🚀 Features (Current & Planned)
