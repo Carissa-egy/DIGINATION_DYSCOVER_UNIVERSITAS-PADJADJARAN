@@ -13,8 +13,7 @@ DysCover is a mobile application built using Flutter to assist early screening o
 - ⭐ Subscription screen (UI planned)
 
 ## 📱 Prototype Mobile Apps
-Please visit the following link to see the details of the mobile app prototype: 
-https://www.canva.com/design/DAGpBnxv2zg/U-zRSV-5dj600QsPE7FCIg/edit?utm_content=DAGpBnxv2zg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+Please visit the following link to see the details of the mobile app prototype: https://bit.ly/Prototype_Mobile_Apps_BLUPPI
 
 ## 🔧 Tech Stack
 
